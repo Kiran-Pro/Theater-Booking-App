@@ -15,5 +15,4 @@ The **Theater Booking App** is a web-based platform for reserving seats for play
 - **HTML5 & CSS3** – Structuring and styling the interface.  
 - **JavaScript & TypeScript** – Core logic and interactivity.  
 - **React** – Building a modular and dynamic UI.  
-- **Redux** – Managing application state efficiently.  
 - **Git** – Version control for collaboration.  
